@@ -10,8 +10,8 @@ The purpose of footprinting is to build a comprehensive picture of the target's 
 # Methods
 
 
-There are two main methods for footprinting
-# passive 
+There are two main methods for footprinting :- Passive and Active
+# Passive 
 
 Passive footprinting:- involves collecting information from publicly available sources without directly interacting with the target. 
 
